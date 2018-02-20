@@ -1,4 +1,4 @@
-%SMTPC(1)
+% SMTPC(1)
 
 # NAME
 
@@ -152,6 +152,6 @@ sendmail(1)
 
 # HISTORY
 
-**smtpc** was initially written for Sympa project by
+**smtpc** was initially written for [Sympa](https://www.sympa.org/) project by
 IKEDA Soji <ikeda@conversion.co.jp>.
 

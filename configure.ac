@@ -1,7 +1,7 @@
 #                                               -*- Autoconf -*-
 
 AC_PREREQ([2.59])
-AC_INIT([smtpc], [0.3], [ikeda@conversion.co.jp])
+AC_INIT([smtpc], [1.0.0], [ikeda@conversion.co.jp])
 AM_INIT_AUTOMAKE([foreign -Wall -Werror 1.9 tar-pax])
 m4_ifdef([AM_SILENT_RULES], [AM_SILENT_RULES([yes])])
 AC_CONFIG_HEADERS([config.h])

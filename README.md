@@ -25,3 +25,8 @@ Usage
 
 See [smtpc.1.md](smtpc.1.md).
 
+License
+-------
+
+[BSD 2-Clause](LICENSE.md).
+

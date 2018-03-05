@@ -1,4 +1,4 @@
-# $Id$
+#! /bin/sh
 
 args=
 for arg; do

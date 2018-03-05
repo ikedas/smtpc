@@ -1,5 +1,4 @@
 #                                               -*- Autoconf -*-
-# $Id$
 
 AC_PREREQ([2.59])
 AC_INIT([smtpc], [0.3], [ikeda@conversion.co.jp])
